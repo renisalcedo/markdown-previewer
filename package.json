@@ -1,0 +1,12 @@
+{
+  "name": "markdown-previewer",
+  "version": "1.0.0",
+  "description": "A simple nodejs application for previewing markdown on the web",
+  "main": "index.js",
+  "author": "Reynaldo Salcedo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "marked": "^0.3.16"
+  }
+}
